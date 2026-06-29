@@ -10,8 +10,6 @@ Author: kaymen99
 ## 📩 **FULL TUTORIAL: Build AI-Powered Email Automation Using AI Agents + RAG!** 
 
 
-![customer-support-ai-automation](https://github.com/user-attachments/assets/eb061276-0579-4e28-9360-482c8da33a9d)
-
 ## **Introduction**  
 
 In today's **fast-paced environment**, customers demand **quick, accurate, and personalized responses**—expectations that can overwhelm traditional support teams. Managing large volumes of emails, categorizing them, crafting appropriate replies, and ensuring quality consumes **significant time and resources**, often leading to **delays or errors**, which can harm customer satisfaction.  
