@@ -7,9 +7,10 @@ Author: kaymen99
 
 # 🚀 **Customer Support Email Automation with AI Agents and RAG**
 
-## 📩 **FULL TUTORIAL: Build AI-Powered Email Automation Using AI Agents + RAG!** 👉 [Read Now](https://dev.to/kaymen99/boost-customer-support-ai-agents-langgraph-and-rag-for-email-automation-21hj) 🎯   
+## 📩 **FULL TUTORIAL: Build AI-Powered Email Automation Using AI Agents + RAG!** 
 
 
+![customer-support-ai-automation](https://github.com/user-attachments/assets/eb061276-0579-4e28-9360-482c8da33a9d)
 
 ## **Introduction**  
 
